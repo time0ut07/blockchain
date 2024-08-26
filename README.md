@@ -1,2 +1,3 @@
-# blockchain
-For school demonstration on mining and simple attack simulation
+# Blockchain
+
+Coded this by myself for a module presentation demonstration of blockchain and simulated a simple attack.
